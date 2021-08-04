@@ -1,0 +1,26 @@
+.form-group{
+    color:red;
+    
+    margin-left: 25px;
+    bottom: 25px;
+    padding-top: 0%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+}
+.heading {
+    color: green;
+    margin-left: 200px;
+}
+.navbar {
+background-color: hotpink;
+border: 15px solid green;
+
+}
+.home {
+    border: 15px solid rgb(6, 3, 179);
+}
+.option {
+background-color: lightgrey;
+color: blue;
+margin: 25px;
+}
